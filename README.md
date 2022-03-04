@@ -13,9 +13,9 @@ area= width*height
 print("The area is", area,"square units")
 ```
 ## **Files Used**
-No files are needed
+*No files are needed*
 ## **Additional Documentation**
-No additional documentation
+*No additional documentation*
 ## ***Version Summary***
--The code was originally created and ran on MindTap. 
+-The code was originally created and ran on MindTap. 😹
 
